@@ -12,4 +12,4 @@ Semester: 5th
 
 Institute: NIT Silchar
 
-Linus Command-Line Utility and Bourne Shell Programmes by Subhojit Ghimire
+Linux Command-Line Utility and Bourne Shell Programmes by Subhojit Ghimire
