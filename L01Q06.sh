@@ -8,8 +8,8 @@ for fileName in *
 do
 	if [ -f $fileName ]
 	then
-		echo $fileName | tr [:lower:] [:upper:]
-		# tr [:lower:] [:upper:] < $fileName
+		# echo $fileName | tr [:lower:] [:upper:]
+		tr [:lower:] [:upper:] < $fileName
 	fi
 done
 # $chmod +x L01Q06.sh
