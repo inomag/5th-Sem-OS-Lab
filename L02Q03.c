@@ -48,5 +48,5 @@ int main () {
       	return 0;
 }
 
-// $ gcc L02Q03.c -o run
-// $ ./run
+// $ gcc L02Q03.c -o output
+// $ ./output
